@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Biodata</title>
+</head>
+<body>
+
+    <h2>Arsya Fitria Yahdini</h2>
+
+    <p>Halo Nama saya Arsya Fitria Yahdini.</p>
+    <p>umur saya 19 tahun, saya lahir pada 12 april 2006 di Kalimantan Tengah</p>
+    <p>Saya adalah mahasiswa program studi Sistem Informasi di Universitas Lampung</p>
+
+
+    <h2>Data Diri</h2>
+    <ul>
+        <li>Email: <a href="mailto:arsyafitria53@gmail.com">arsyafitria53@gmail.com</a></li>
+        <li>No. HP: <a href="tel:085709159519">085709159519</a></li>
+        <li>Whatsapp: <a href="https://wa.me/6285709159519">085709159519</a></li>
+    </ul>
+
+    <h2>Hobi</h2>
+    <ol>
+        <li>Melukis</li>
+        <li>Bernyanyi</li>
+        <li>tradisional tari</li>
+        <li>Menonton film fantasi</li>
+    </ol>
+
+    <h2>Sosial Media</h2>
+    <ul>
+        <li>
+           <img src="../assets/facebook.png" width="20">
+            <a href="#">facebook</a>
+        </li>
+        <li>
+            <img src="../assets/Instagram.jpg" width="20">
+            <a href="#">Instagram</a>
+        </li>
+        <li>
+            <img src="../assets/X.png" width="20">
+            <a href="#">X</a>
+        </li>
+    </ul>
+
+</body>
+</html>
