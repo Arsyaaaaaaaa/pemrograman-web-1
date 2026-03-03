@@ -1,1 +1,38 @@
+(<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
+body {
+    font-family: "Manrope", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    background-color: pink;
+}
+
+#kehadiran{
+    background-color:pink;
+    padding: 20px 50px;
+    width: fit-content;
+    margin: auto;
+    border-radius:20px;
+
+
+    input, select{
+        border: none;
+        border-bottom: 3px solid beige;
+        background-color: cyan;
+        width: 100%;
+        padding: 1em;
+}
+
+    button{
+        background-color:rgb(9, 213, 186);
+        color: white;
+        border: none;
+        padding: 0.5em 1.5em;
+        border-radius: 4px;
+    }
+    label {
+        display: block;
+    }
+}
